@@ -45,14 +45,12 @@
 AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
 
 ---
-
-### 🐟 GLORiA – Fish Origin Classification
+<h4 align="center">🐟 GLORiA – Fish Origin Classification</h4>
 
 Image-based classification of fish as wild, escaped, or farmed using CLIP and deep learning techniques.
 
 ---
-
-### 🦈 e-Lasmobranc – Fish Species Detection and Classification
+<h4 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification</h4>
 
 Detection and classification of elasmobranch species (sharks and rays) in underwater imagery using deep learning.
 
