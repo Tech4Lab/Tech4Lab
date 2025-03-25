@@ -14,8 +14,7 @@
 
 <p align="center">
   <a href="https://aia.ua.es/es/">
-    <img src="https://img.shields.io/badge/🌐 Official_Site-Visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-
+   <img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/Tech4D">
     <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
@@ -36,7 +35,8 @@
 <h2 align="center"> 👩‍⚕️ Tech4Diet – AI for Nutrition 📷</h2>
 
 <p align="center">
-  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
+  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
   <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view"><img src="https://img.shields.io/badge/🧪 VR Demo-lightblue?style=for-the-badge" alt="Demo"/> </a>
   <a href="https://www.youtube.com/@tech4diet615">
     <img src="https://img.shields.io/badge/📺 YouTube_Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -58,7 +58,8 @@
 <h2 align="center">🐟 GLORiA – Fish Origin Classification 🔎</h2>
 
 <p align="center">
-  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
+  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
    <a href="https://zenodo.org/records/7082807">
     <img src="https://img.shields.io/badge/🎣 Fish_Origin_Dataset-green?style=for-the-badge"/>
   </a>
@@ -72,7 +73,8 @@
 <h2 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h2>
 
 <p align="center">
-  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
+  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
   <a href="https://zenodo.org/records/6475675">
     <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
   </a>
