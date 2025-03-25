@@ -7,6 +7,16 @@ This repository hosts resources, code, datasets and documentation from our ongoi
 
 ---
 
+## 📚 Table of Contents
+
+- [Active Projects](#-active-projects)
+- [Research Team](#-research-team)
+- [Publications](#-publications)
+- [How to Contribute](#-how-to-contribute)
+- [License](#-license)
+
+---
+
 ## 🚀 Active Projects
 
 ### 🔬 Tech4Diet – AI for Nutrition
