@@ -45,8 +45,8 @@ AI models for food recognition, portion estimation, and personalized dietary rec
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=FCxq0HBTXEE&t=1s" target="_blank">
-    <img src="https://img.youtube.com/vi/FCxq0HBTXEE/1.jpg"  alt="Tech4Diet Video" width="640"/>
+  <a href="https://www.youtube.com/watch?v=FCxq0HBTXEE" target="_blank">
+    <img src="https://img.youtube.com/vi/FCxq0HBTXEE/0.jpg"  alt="Tech4Diet Video" width="640"/>
   </a>
 </p>
 
