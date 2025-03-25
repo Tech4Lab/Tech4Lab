@@ -1,11 +1,3 @@
-<p align="right">
-  <img src="./images/UA (color)(2).jpg" alt="UA Logo" width="200"/>
-</p>
-
-<p align="center">
-  <img src="./images/LogoLab2.png" alt="Graphical Abstract" width="600"/>
-</p>
-
 <h1 align="center">Tech4D Research Lab – University of Alicante</h1>
 
 <p align="center">
