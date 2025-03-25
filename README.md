@@ -34,6 +34,14 @@
 
 ### 🧬 Tech4Diet – AI for Nutrition
 
+<p align="center">
+  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
+  <a href="https://zenodo.org/records/7082807"><img src="https://img.shields.io/badge/🎣 Fish_Origin_Dataset-green?style=for-the-badge"/></a>
+  <a href="https://zenodo.org/records/6475675"><img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/></a>
+  <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
+</p>
+
+
 Website: [https://tech4d.ua.es/](https://tech4d.ua.es/)  
 AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
 
