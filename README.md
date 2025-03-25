@@ -6,20 +6,9 @@ We focus on applied research in Artificial Intelligence, particularly in areas s
 This repository hosts resources, code, datasets and documentation from our ongoing projects.
 
 ---
-
-## 📚 Table of Contents
-
-- [Active Projects](#-active-projects)
-- [Research Team](#-research-team)
-- [Publications](#-publications)
-- [How to Contribute](#-how-to-contribute)
-- [License](#-license)
-
----
-
 ## 🚀 Active Projects
 
-### 🔬 Tech4Diet – AI for Nutrition
+### 🔬 (https://img.icons8.com/color/48/000000/experimental-plant.png) Tech4Diet – AI for Nutrition
 
 Website: https://tech4d.ua.es/
 
