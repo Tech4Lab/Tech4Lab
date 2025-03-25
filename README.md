@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="./images/logo.png" alt="Graphical Abstract" width="600"/>
+</p>
+
 <p align="center">
   <img src="./images/LogoLab.png" alt="Graphical Abstract" width="600"/>
 </p>
