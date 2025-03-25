@@ -16,7 +16,7 @@
   <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view">
     <img src="https://img.shields.io/badge/🧪 Demo-lightblue?style=for-the-badge" alt="Demo"/>
   </a>
-  <a href="https://huggingface.co/Tech4Diet">
+  <a href="https://huggingface.co/Tech4D">
     <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
   </a>
   <a href="https://github.com/Tech4Diet">
