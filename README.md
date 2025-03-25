@@ -1,4 +1,4 @@
-# 🧠 Artificial Intelligence Research Lab – University of Alicante
+<h1 align="center"> 🧠 Artificial Intelligence Research Lab – University of Alicante
 
 Welcome to the official repository of the **Tech4Diet Research Lab** at the University of Alicante.
 
