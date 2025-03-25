@@ -22,7 +22,7 @@
   <a href="https://github.com/Tech4Diet">
     <img src="https://img.shields.io/badge/💻 GitHub_Page-brown?style=for-the-badge" alt="GitHub Page"/>
   </a>
-  <a href="https://discord.gg/yourinvite">
+  <a href="https://discord.gg/T7j6eSkb4X">
     <img src="https://img.shields.io/badge/💬 Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://forms.gle/report">
