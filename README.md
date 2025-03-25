@@ -37,6 +37,11 @@
 - 📰 Featured in *À Punt Mèdia*: [IA per evitar recaigudes en persones obeses](https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html)
 
 
+## 📄Last Publications
+
+- García d'Urso, N. et al. (2024). *Federated Learning in Medical Imaging.* [arXiv](https://arxiv.org/abs/XXXX)
+- Beviá, I. et al. (2023). *e-Lasmobranc: Deep detection of sharks and rays.* [DOI](https://doi.org/XXXX)
+
 ## 🚀 Active Projects
 
 <h2 align="center"> 👩‍⚕️ Tech4Diet – AI for Nutrition 📷</h2>
