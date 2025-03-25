@@ -28,3 +28,8 @@ Website: https://tech4d.ua.es/
 | [Bernabé Sanchez Sos](https://github.com/Bernabe19) | PhD Student | @Bernabe19 | bernabe.sanchez@ua.es
 | [Ismael Beviá Ballesteros](https://github.com/ibevias) | PhD Student | @ibevias | ismael.bevias@ua.es
 | [Mario Jerez Tallón](https://github.com/Mariojt72) | Research Assistant | @Mariojt72 | mario.jerez@ua.es
+
+<!-- Logos centered -->
+<p align="center">
+  <img src="./images/logos.png" width="900"/>
+</p>
