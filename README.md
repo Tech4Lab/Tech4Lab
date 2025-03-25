@@ -9,6 +9,28 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="https://tech4d.ua.es/">
+    <img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge" alt="Official Site"/>
+  </a>
+  <a href="https://your-demo-link.com">
+    <img src="https://img.shields.io/badge/🧪 Demo-lightblue?style=for-the-badge" alt="Demo"/>
+  </a>
+  <a href="https://huggingface.co/Tech4Diet">
+    <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
+  </a>
+  <a href="https://github.com/Tech4Diet">
+    <img src="https://img.shields.io/badge/💻 GitHub_Page-brown?style=for-the-badge" alt="GitHub Page"/>
+  </a>
+  <a href="https://discord.gg/yourinvite">
+    <img src="https://img.shields.io/badge/💬 Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://forms.gle/report">
+    <img src="https://img.shields.io/badge/🚨 Report-red?style=for-the-badge" alt="Report"/>
+  </a>
+</p>
+
+
 ---
 
 ## 🚀 Active Projects
