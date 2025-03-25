@@ -32,7 +32,7 @@
 
 ## 🚀 Active Projects
 
-<h3 align="center"> 👩‍⚕️ Tech4Diet – AI for Nutrition 📷</h3>
+<h2 align="center"> 👩‍⚕️ Tech4Diet – AI for Nutrition 📷</h2>
 
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
@@ -54,7 +54,7 @@ AI models for food recognition, portion estimation, and personalized dietary rec
 </p>
 
 
-<h4 align="center">🐟 GLORiA – Fish Origin Classification 🔎</h4>
+<h2 align="center">🐟 GLORiA – Fish Origin Classification 🔎</h2>
 
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
@@ -68,7 +68,7 @@ AI models for food recognition, portion estimation, and personalized dietary rec
 Image-based classification of fish as wild, escaped, or farmed using CLIP and deep learning techniques.
 </p>
 
-<h5 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h5>
+<h2 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h2>
 
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
