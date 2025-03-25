@@ -24,7 +24,7 @@ Website: https://tech4d.ua.es/
 |------|------|--------|--------|
 | Dr. Andrés Fuster Guilló | Principal Investigator | --------| fuster@ua.es
 | Dr. Jorge Azorín López | Principal Investigator | --------| jazorin@ua.es
-| Dr. Marcelo Saval Calvo | Principal Investigator | --------|
+| Dr. Marcelo Saval Calvo | Principal Investigator | --------| m.saval@gcloud.ua.es
 | [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Principal Investigator | @nawue | nahuel.garcia@ua.es
 | [Bernabé Sanchez Sos](https://github.com/Bernabe19) | PhD Student | @Bernabe19 | bernabe.sanchez@ua.es
 | [Ismael Beviá Ballesteros](https://github.com/ibevias) | PhD Student | @ibevias | ismael.bevias@ua.es
