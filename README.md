@@ -4,6 +4,7 @@
 
 | Name | Role | GitHub |
 |------|------|--------|
-| [Dr. Ana Martínez](https://github.com/anamartinez) | Principal Investigator | @anamartinez |
-| [Carlos Pérez](https://github.com/carlosperez) | PhD Student | @carlosperez |
-| [Lucía Gómez](https://github.com/luciagomez) | Research Assistant | @luciagomez |
+| [Andrés Fuster Guilló] | Principal Investigator |
+| [Bernabé Sanchez Sos](https://github.com/Bernabe19) | PhD Student | @Bernabe19 |
+| [Ismael Beviá Ballesteros](https://github.com/ibevias) | PhD Student | @ibevias |
+| [Mario Jerez Tallón](https://github.com/Mariojt72) | Research Assistant | @luciagomez |
