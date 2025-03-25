@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tech4d.ua.es/">
+  <a href="https://aia.ua.es/es/">
     <img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge" alt="Official Site"/>
   </a>
   <a href="https://huggingface.co/Tech4D">
