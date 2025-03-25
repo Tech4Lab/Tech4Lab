@@ -20,12 +20,12 @@ Website: https://tech4d.ua.es/
 ---
 ## 👥 Research Team
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Dr. Andrés Fuster Guilló | Principal Investigator |
-| Dr. Jorge Azorín López | Principal Investigator |
-| Dr. Marcelo Saval Calvo | Principal Investigator |
-| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Principal Investigator | @nawue |
-| [Bernabé Sanchez Sos](https://github.com/Bernabe19) | PhD Student | @Bernabe19 |
-| [Ismael Beviá Ballesteros](https://github.com/ibevias) | PhD Student | @ibevias |
-| [Mario Jerez Tallón](https://github.com/Mariojt72) | Research Assistant | @Mariojt72 |
+| Name | Role | GitHub | Contact
+|------|------|--------|--------|
+| Dr. Andrés Fuster Guilló | Principal Investigator | --------| fuster@ua.es
+| Dr. Jorge Azorín López | Principal Investigator | --------| jazorin@ua.es
+| Dr. Marcelo Saval Calvo | Principal Investigator | --------|
+| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Principal Investigator | @nawue | nahuel.garcia@ua.es
+| [Bernabé Sanchez Sos](https://github.com/Bernabe19) | PhD Student | @Bernabe19 | bernabe.sanchez@ua.es
+| [Ismael Beviá Ballesteros](https://github.com/ibevias) | PhD Student | @ibevias | ismael.bevias@ua.es
+| [Mario Jerez Tallón](https://github.com/Mariojt72) | Research Assistant | @Mariojt72 | mario.jerez@ua.es
