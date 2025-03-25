@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://aia.ua.es/es/">
-    <img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge" alt="Official Site"/>
+    <img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/Tech4D">
     <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
