@@ -13,7 +13,7 @@
 
 ## 🚀 Active Projects
 
-### <img src="./images/logo.png" alt="Tech4Diet Logo" width="28"/> Tech4Diet – AI for Nutrition
+### 🧬 Tech4Diet – AI for Nutrition
 
 Website: [https://tech4d.ua.es/](https://tech4d.ua.es/)  
 AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
