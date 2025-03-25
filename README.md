@@ -34,7 +34,7 @@
 
 ## 🎥 Media & Press
 
-- 📰 Featured in *Apunt Media*: ["IA per evitar recaigudes en persones obeses"]((https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html))
+- 📰 Featured in *Apunt Media*: ["IA per evitar recaigudes en persones obeses"][(https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html)]
 - 🎤 Invited talk @ CVPR 2024 – "AI in Aquatic Monitoring"
 
 ## 🚀 Active Projects
