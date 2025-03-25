@@ -40,6 +40,9 @@
   <a href="https://www.youtube.com/@tech4diet615">
     <img src="https://img.shields.io/badge/📺 YouTube_Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+   <a href="https://github.com/Tech4Lab/Tech4Diet">
+    <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
+  </a>
   <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
 
@@ -61,6 +64,9 @@ AI models for food recognition, portion estimation, and personalized dietary rec
    <a href="https://zenodo.org/records/7082807">
     <img src="https://img.shields.io/badge/🎣 Fish_Origin_Dataset-green?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Tech4Lab/GLORIA">
+    <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
+  </a>
   <a href="mailto:mario.jerez@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
 
@@ -74,6 +80,9 @@ Image-based classification of fish as wild, escaped, or farmed using CLIP and de
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
   <a href="https://zenodo.org/records/6475675">
     <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Tech4Lab/e-Lasmobranc">
+    <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
