@@ -68,11 +68,13 @@ AI models for food recognition, portion estimation, and personalized dietary rec
 Image-based classification of fish as wild, escaped, or farmed using CLIP and deep learning techniques.
 </p>
 
-<h5 align="center">🦈 e-Lasmobranc 🌊 – Fish Species Detection and Classification</h5>
+<h5 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h5>
 
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
-  <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view"><img src="https://img.shields.io/badge/🧪 VR Demo-lightblue?style=for-the-badge" alt="Demo"/> </a>
+  <a href="https://zenodo.org/records/6475675">
+    <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
+  </a>
   <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
 
