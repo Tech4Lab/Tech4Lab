@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="./images/UA (color)(2).jpg" alt="Graphical Abstract" width="200"/>
+  <img src="./images/UA (color)(2).jpg" alt="UA Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🚀 Active Projects
 
-### 🔬 (https://img.icons8.com/color/48/000000/experimental-plant.png) Tech4Diet – AI for Nutrition
+### 🧬 <img src="./images/logo.png" alt="Tech4Diet Logo" width="28"/> Tech4Diet – AI for Nutrition
 
 Website: https://tech4d.ua.es/
 
@@ -31,7 +31,7 @@ The dataset used are available at:
 
 [🎣 Zenodo - Fish Origin Dataset](https://zenodo.org/records/7082807)
 
-[🎣 Zenodo - DeepFish Dataset](https://zenodo.org/records/6475675)
+[🐠 Zenodo - DeepFish Dataset](https://zenodo.org/records/6475675)
 
 ---
 
