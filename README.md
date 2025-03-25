@@ -13,7 +13,7 @@
   <a href="https://tech4d.ua.es/">
     <img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge" alt="Official Site"/>
   </a>
-  <a href="[https://your-demo-link.com](https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view)">
+  <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view">
     <img src="https://img.shields.io/badge/🧪 Demo-lightblue?style=for-the-badge" alt="Demo"/>
   </a>
   <a href="https://huggingface.co/Tech4Diet">
