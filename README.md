@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="./images/logo.png" alt="Graphical Abstract" width="600"/>
+<p align="right">
+  <img src="./images/UA (color)(2).jpg" alt="Graphical Abstract" width="300"/>
 </p>
 
 <p align="center">
