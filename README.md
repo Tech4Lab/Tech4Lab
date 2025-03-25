@@ -47,10 +47,22 @@ AI models for food recognition, portion estimation, and personalized dietary rec
 <h4 align="center">🐟 GLORiA – Fish Origin Classification</h4>
 
 <p align="center">
+  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
+  <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view"><img src="https://img.shields.io/badge/🧪 VR Demo-lightblue?style=for-the-badge" alt="Demo"/> </a>
+  <a href="mailto:mario.jerez@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
+</p>
+
+<p align="center">
 Image-based classification of fish as wild, escaped, or farmed using CLIP and deep learning techniques.
 </p>
 
-<h4 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification</h4>
+<h5 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification</h5>
+
+<p align="center">
+  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
+  <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view"><img src="https://img.shields.io/badge/🧪 VR Demo-lightblue?style=for-the-badge" alt="Demo"/> </a>
+  <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
+</p>
 
 <p align="center">
 Detection and classification of elasmobranch species (sharks and rays) in underwater imagery using deep learning.
