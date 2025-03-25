@@ -9,20 +9,11 @@ This repository hosts resources, code, datasets and documentation from our ongoi
 
 ## 🚀 Active Projects
 
-### 🔬 Tech4Diet – AI for Personalized Nutrition
-AI models for recognizing food items, estimating portion sizes, and recommending personalized diets based on user profiles and health conditions.
+### 🔬 Tech4Diet – AI for Nutrition
 
-### 🧩 Federated Learning for Medical Imaging
-A privacy-preserving framework for training deep learning models on decentralized medical datasets using NVIDIA FLARE and MONAI.
+### 🐟 GLORiA – Fish Origin Classification
 
-### 🐟 AquaVision – Fish Behavior Classification
-Computer vision models to classify fish behavior and origin (wild, farmed, escaped) using underwater image datasets and CLIP-based classifiers.
-
-### 📜 BOE-Summarizer – Automatic Legal Document Summarization
-A system to extract structured data and generate abstractive summaries from official government publications (BOE) using NLP and transformer models.
-
-### 🎮 Connect6 AI Engine
-Development of an Alpha-Beta search engine and evaluation functions for a competitive Connect6 AI agent, including threat detection and heuristic strategies.
+### 🦈 e-Lasmbobranc – Fish Species Detection and Classification
 
 ---
 ## 👥 Research Team
