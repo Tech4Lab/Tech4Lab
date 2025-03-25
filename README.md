@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="./images/UA (color)(2).jpg" alt="Graphical Abstract" width="200"/>
 </p>
 
