@@ -40,8 +40,9 @@
   <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
 
+<p align="center">
 AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
-
+</p>
 ---
 <h4 align="center">🐟 GLORiA – Fish Origin Classification</h4>
 
