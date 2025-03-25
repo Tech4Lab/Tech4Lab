@@ -82,15 +82,6 @@ Image-based classification of fish as wild, escaped, or farmed using CLIP and de
 Detection and classification of elasmobranch species (sharks and rays) in underwater imagery using deep learning.
 </p>
 
-## 🔗 Dataset
-
-The datasets used are available at:  
-
-- [🎣 Zenodo - Fish Origin Dataset](https://zenodo.org/records/7082807)  
-- [🐠 Zenodo - DeepFish Dataset](https://zenodo.org/records/6475675)
-
----
-
 ## 👥 Research Team
 
 | Name | Role | GitHub | Contact |
