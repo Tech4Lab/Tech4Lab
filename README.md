@@ -39,8 +39,8 @@
 
 ## 📄Last Publications
 
-- García d'Urso, N. et al. (2024). *Federated Learning in Medical Imaging.* [arXiv](https://arxiv.org/abs/XXXX)
-- Beviá, I. et al. (2023). *e-Lasmobranc: Deep detection of sharks and rays.* [DOI](https://doi.org/XXXX)
+- García d'Urso, N. et al. (2024). *Tech4Diet: 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models* [Springer]([https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30])
+- Jerez, M. et al. (2024). *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning* [Springer]([https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75])
 
 ## 🚀 Active Projects
 
