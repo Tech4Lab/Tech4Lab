@@ -32,7 +32,7 @@
 
 ## 🚀 Active Projects
 
-### 🧬 Tech4Diet – AI for Nutrition
+<h3 align="center">🧬 Tech4Diet – AI for Nutrition</h3>
 
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
@@ -42,8 +42,6 @@
   <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
 
-
-Website: [https://tech4d.ua.es/](https://tech4d.ua.es/)  
 AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
 
 ---
