@@ -44,6 +44,13 @@
 AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FCxq0HBTXEE&t=1s" target="_blank">
+    <img src="https://www.youtube.com/watch?v=FCxq0HBTXEE&t=1s" alt="Tech4Diet Video" width="640"/>
+  </a>
+</p>
+
+
 <h4 align="center">🐟 GLORiA – Fish Origin Classification</h4>
 
 <p align="center">
