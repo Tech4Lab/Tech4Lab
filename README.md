@@ -32,6 +32,10 @@
 - **25/03/2025** – 🗞️ *First public release of the Tech4Diet Research Lab on GitHub!*  
   Our official repository is now live, featuring projects on 3D recontruction, fish classification and elasmobranch detection. Stay tuned for updates!
 
+## 🎥 Media & Conferences
+
+- 📰 Featured in *À Punt Mèdia*: [IA per evitar recaigudes en persones obeses](https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html)
+
 ## 🚀 Active Projects
 
 <h2 align="center"> 👩‍⚕️ Tech4Diet – AI for Nutrition 📷</h2>
@@ -86,10 +90,6 @@
   <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact_us-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-## 🎥 Media & Conferences
-
-- 📰 Featured in *À Punt Mèdia*: [IA per evitar recaigudes en persones obeses](https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html)
 
 ## 📄 Last Publications
 
