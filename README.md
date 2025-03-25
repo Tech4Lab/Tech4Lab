@@ -7,7 +7,9 @@
 <p align="center">
   <strong>Welcome to the official repository of the Tech4Diet Research Lab at the University of Alicante. We focus on applied research in Artificial Intelligence, particularly in areas such as machine learning and computer vision. This repository hosts resources, code, datasets and documentation from our ongoing projects.</strong>
 </p>
+
 ---
+
 ## 🚀 Active Projects
 
 ### 🔬 (https://img.icons8.com/color/48/000000/experimental-plant.png) Tech4Diet – AI for Nutrition
