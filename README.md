@@ -58,7 +58,7 @@
 <h2 align="center">🐟 GLORiA – Fish Origin Classification 🔎</h2>
 
 <p align="center">
-  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://www.programapleamar.es/proyectos/gloria-2-global-change-resilience-aquaculture-2"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
    <a href="https://zenodo.org/records/7082807">
     <img src="https://img.shields.io/badge/🎣 Fish_Origin_Dataset-green?style=for-the-badge"/>
