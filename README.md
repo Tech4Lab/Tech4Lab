@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
   <a href="https://drive.google.com/file/d/13etHqOiVgaVPv6Zf7TLOx5b1EMwjPzVC/view"><img src="https://img.shields.io/badge/🧪 VR Demo-lightblue?style=for-the-badge" alt="Demo"/> </a>
-  <a href="https://www.youtube.com/@Tech4Diet">
+  <a href="https://www.youtube.com/@tech4diet615">
     <img src="https://img.shields.io/badge/📺 YouTube_Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
