@@ -1,7 +1,7 @@
 <h1 align="center">Tech4Diet Research Lab</h1>
 
 <p align="center">
-  <img src="./images/banner.png" alt="Banner UA" width="600"/>
+  <img src="./images/banner.jpge" alt="Banner UA" width="600"/>
 </p>
 
 <h2 align="center">University of Alicante</h2>
