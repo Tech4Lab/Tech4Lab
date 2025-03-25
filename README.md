@@ -43,7 +43,8 @@
    <a href="https://github.com/Tech4Lab/Tech4Diet">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
+  <a href="mailto:nahuel.garcia@ua.es"><img src="https://img.shields.io/badge/📬 Contact_us-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
@@ -63,7 +64,8 @@
   <a href="https://github.com/Tech4Lab/GLORIA">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:mario.jerez@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
+  <a href="mailto:mario.jerez@ua.es"><img src="https://img.shields.io/badge/📬 Contact_us-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <h2 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h2>
@@ -76,7 +78,8 @@
   <a href="https://github.com/Tech4Lab/e-Lasmobranc">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
+  <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact_us-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ## 👥 Research Team
