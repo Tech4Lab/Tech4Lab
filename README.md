@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
   </a>
   <a href="https://github.com/Tech4Lab">
-    <img src="https://img.shields.io/badge/💻 GitHub_Page-brown?style=for-the-badge" alt="GitHub Page"/>
+    <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://discord.gg/T7j6eSkb4X">
     <img src="https://img.shields.io/badge/💬 Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
