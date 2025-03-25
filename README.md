@@ -36,11 +36,14 @@
 
 - 📰 Featured in *À Punt Mèdia*: [IA per evitar recaigudes en persones obeses](https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html)
 
+## 📄 Last Publications
 
-## 📄Last Publications
+- García d'Urso, N. et al. (2024). *Tech4Diet: 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models*  
+  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30)
 
-- García d'Urso, N. et al. (2024). *Tech4Diet: 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models* [Springer]([https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30])
-- Jerez, M. et al. (2024). *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning* [Springer]([https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75])
+- Jerez, M. et al. (2024). *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning*  
+  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
+
 
 ## 🚀 Active Projects
 
