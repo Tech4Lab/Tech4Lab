@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/LogoLa.png" alt="Graphical Abstract" width="600"/>
+  <img src="./images/LogoLab.png" alt="Graphical Abstract" width="600"/>
 </p>
 
 <h1 align="center">Tech4D Research Lab – University of Alicante</h1>
