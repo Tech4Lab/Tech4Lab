@@ -32,7 +32,7 @@
 
 ## 🚀 Active Projects
 
-<h3 align="center">🧬 Tech4Diet – AI for Nutrition</h3>
+<h3 align="center"> Tech4Diet – AI for Nutrition</h3>
 
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-blue?style=for-the-badge"/></a>
