@@ -47,10 +47,6 @@
 </p>
 
 <p align="center">
-AI models for food recognition, portion estimation, and personalized dietary recommendations based on user profiles.
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=FCxq0HBTXEE" target="_blank">
     <img src="https://img.youtube.com/vi/FCxq0HBTXEE/0.jpg"  alt="Tech4Diet Video" width="640"/>
   </a>
@@ -70,10 +66,6 @@ AI models for food recognition, portion estimation, and personalized dietary rec
   <a href="mailto:mario.jerez@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-Image-based classification of fish as wild, escaped, or farmed using CLIP and deep learning techniques.
-</p>
-
 <h2 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h2>
 
 <p align="center">
@@ -85,10 +77,6 @@ Image-based classification of fish as wild, escaped, or farmed using CLIP and de
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact-us-orange?style=for-the-badge"/></a>
-</p>
-
-<p align="center">
-Detection and classification of elasmobranch species (sharks and rays) in underwater imagery using deep learning.
 </p>
 
 ## 👥 Research Team
