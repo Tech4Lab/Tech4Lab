@@ -1,6 +1,6 @@
-<p align="right">
+<div style="text-align: right;">
   <img src="./images/UA (color)(2).jpg" alt="Graphical Abstract" width="300"/>
-</p>
+</div>
 
 <p align="center">
   <img src="./images/LogoLab.png" alt="Graphical Abstract" width="600"/>
