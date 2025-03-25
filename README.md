@@ -16,7 +16,7 @@
 
 ## 🚀 Active Projects
 
-### 🧬 <img src="./images/logo.png" alt="Tech4Diet Logo" width="28"/> Tech4Diet – AI for Nutrition
+### <img src="./images/logo.png" alt="Tech4Diet Logo" width="224"/> Tech4Diet – AI for Nutrition
 
 Website: https://tech4d.ua.es/
 
