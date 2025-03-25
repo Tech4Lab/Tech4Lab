@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/graphical_abstract.png" alt="Graphical Abstract" width="600"/>
+  <img src="./images/logolab.png" alt="Graphical Abstract" width="600"/>
 </p>
 
 ---
