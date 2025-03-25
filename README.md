@@ -1,5 +1,5 @@
-<h1 align="center">Tech4D Research Lab – University of Alicante</h1>
-
+<h1 align="center">Tech4D Research Lab</h1>
+<h2 align="center">University of Alicante</h2>
 <p align="center">
   <strong>Welcome to the official repository of the Tech4Diet Research Lab at the University of Alicante. We focus on applied research in Artificial Intelligence, particularly in areas such as machine learning and computer vision. This repository hosts resources, code, datasets and documentation from our ongoing projects.</strong>
 </p>
