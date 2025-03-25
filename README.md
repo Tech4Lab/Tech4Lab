@@ -15,7 +15,7 @@ Website: https://tech4d.ua.es/
 
 ### 🐟 GLORiA – Fish Origin Classification
 
-### 🦈 e-Lasmbobranc – Fish Species Detection and Classification
+### 🦈 e-Lasmobranc – Fish Species Detection and Classification
 
 ---
 ## 👥 Research Team
