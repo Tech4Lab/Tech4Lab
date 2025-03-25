@@ -25,9 +25,6 @@
   <a href="https://discord.gg/T7j6eSkb4X">
     <img src="https://img.shields.io/badge/💬 Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://forms.gle/report">
-    <img src="https://img.shields.io/badge/🚨 Report-red?style=for-the-badge" alt="Report"/>
-  </a>
 </p>
 
 
