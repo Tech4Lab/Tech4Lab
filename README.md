@@ -17,6 +17,16 @@ Website: https://tech4d.ua.es/
 ### 🦈 e-Lasmobranc – Fish Species Detection and Classification
 
 ---
+## 🔗 Dataset
+
+The dataset used are available at:  
+
+[🎣 Zenodo - Fish Origin Dataset](https://zenodo.org/records/7082807)
+
+[🎣 Zenodo - DeepFish Dataset](https://zenodo.org/records/6475675)
+
+---
+
 ## 👥 Research Team
 
 | Name | Role | GitHub | Contact
