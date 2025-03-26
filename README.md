@@ -1,12 +1,12 @@
 <p align="center">
   <img src="./images/banner.jpg" alt="Banner UA" width="1000"/>
 </p>
-<h1 align="center">📸 Tech4Diet Research Lab 👀</h1>
+<h1 align="center">📸 Tech4D Research Lab 👀</h1>
 <h3 align="center">🏛️ University of Alicante 🏛️</h3>
 
 <p align="center">
   <strong>
-    Welcome to the official repository of the Tech4Diet Research Lab at the University of Alicante.  
+    Welcome to the official repository of the Tech4D Research Lab at the University of Alicante.  
     We focus on applied research in Artificial Intelligence, particularly in areas such as machine learning and computer vision.  
     This repository hosts resources, code, datasets, and documentation from our ongoing projects.
   </strong>
@@ -29,7 +29,7 @@
 
 ## 🔥 News
 
-- **25/03/2025** – 🗞️ *First public release of the Tech4Diet Research Lab on GitHub!*  
+- **25/03/2025** – 🗞️ *First public release of the Tech4D Research Lab on GitHub!*  
   Our official repository is now live, featuring projects on 3D recontruction, fish classification and elasmobranch detection. Stay tuned for updates!
 
 ## 🎥 Media & Conferences
