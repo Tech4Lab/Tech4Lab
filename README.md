@@ -19,7 +19,7 @@
   <a href="https://huggingface.co/Tech4D">
     <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
   </a>
-  <a href="https://github.com/Tech4Lab">
+  <a href="https://github.com/Tech4DLab">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://discord.gg/T7j6eSkb4X">
