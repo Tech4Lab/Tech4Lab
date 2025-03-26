@@ -81,15 +81,18 @@
 <p align="center">
   <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-  <a href="https://zenodo.org/records/6475675">
-    <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
-  </a>
   <a href="https://github.com/Tech4Lab/e-Lasmobranc">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact_us-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+## 📄 DeepFish Dataset
+
+<a href="https://zenodo.org/records/6475675">
+  <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
+</a>
 
 ## 📄 Last Publications
 
