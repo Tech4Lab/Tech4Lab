@@ -88,7 +88,7 @@
 </a>
 </p>
 
-## 📄 DeepFish Dataset
+## 🐠 DeepFish Dataset
 
 > **Garcia-d’Urso, N., Galan-Cuenca, A., Pérez-Sánchez, P. et al.**  
 > *The DeepFish computer vision dataset for fish instance segmentation, classification, and size estimation.*  
