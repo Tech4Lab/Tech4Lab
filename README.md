@@ -90,6 +90,13 @@
 
 ## 📄 DeepFish Dataset
 
+> **Garcia-d’Urso, N., Galan-Cuenca, A., Pérez-Sánchez, P. et al.**  
+> *The DeepFish computer vision dataset for fish instance segmentation, classification, and size estimation.*  
+> Scientific Data 9, 287 (2022).  
+> 👉 [https://doi.org/10.1038/s41597-022-01416-0](https://doi.org/10.1038/s41597-022-01416-0)
+
+📚 **Download citation (BibTeX)** → Available via Zenodo:
+
 <a href="https://zenodo.org/records/6475675">
   <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
 </a>
